@@ -1,12 +1,13 @@
-### A link (URL) to your published App: (screenshot in docs)
+### 📱 App Access (screenshot in docs)
+This project is no longer actively deployed, but you can view screenshots in the [`docs/`](./docs) folder.
 
-[View the live app here](https://proteges-budget-tracker.netlify.com)  
-*Note: This deployment is no longer active.*
+[Link to former deployment (now inactive)](https://proteges-budget-tracker.netlify.com)
+
 
 ### A link to your GitHub repository: (screenshot in docs)
 
-- Backend: [https://github.com/ruthmci/backend-Protege-Budget-Tracker](https://github.com/ruthmci/backend-Protege-Budget-Tracker)  
-- Frontend: [https://github.com/ruthmci/frontend-Protege-Budget-Tracker](https://github.com/ruthmci/frontend-Protege-Budget-Tracker)
+- Frontend: [https://github.com/RuthMcilwaine/protege-budget-tracker-frontend](https://github.com/RuthMcilwaine/protege-budget-tracker-frontend)
+- Backend: [https://github.com/ruthmci/backend-Protege-Budget-Tracker](https://github.com/RuthMcilwaine/protege-budget-tracker-backend)  
 
 ---
 
@@ -49,10 +50,10 @@ This app aims to replace the manual Excel process and potentially integrate with
 
 ### Design Process / Wireframes
 
-![Design Concept](https://github.com/ruthmci/frontend-Protege-Budget-Tracker/blob/master/docs/Design%20Concept.png)
+![Design Concept](https://github.com/RuthMcilwaine/protege-budget-tracker-frontend/blob/master/docs/Design%20Concept.png)
 
 ---
 
 ### User Stories
 
-![User Stories](https://github.com/ruthmci/frontend-Protege-Budget-Tracker/blob/mast)
+![User Stories](https://github.com/RuthMcilwaine/protege-budget-tracker-frontend/blob/master/docs/User%20Stories.jpg)
