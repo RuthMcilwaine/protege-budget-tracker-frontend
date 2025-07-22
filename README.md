@@ -8,7 +8,7 @@ This project is no longer actively deployed, but you can view screenshots in the
 ### GitHub repository:
 
 - Frontend: [https://github.com/RuthMcilwaine/protege-budget-tracker-frontend](https://github.com/RuthMcilwaine/protege-budget-tracker-frontend)
-- Backend: [https://github.com/ruthmci/backend-Protege-Budget-Tracker](https://github.com/RuthMcilwaine/protege-budget-tracker-backend)  
+- Backend: [https://github.com/RuthMcilwaine/protege-budget-tracker-backend](https://github.com/RuthMcilwaine/protege-budget-tracker-backend)  
 
 ---
 
