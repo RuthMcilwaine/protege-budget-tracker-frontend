@@ -2,8 +2,8 @@
 # Protege Budget Tracker — Portfolio Project
 
 ## Repository Links  
-- Backend Repo: [github.com/ruthmci/backend-Protege-Budget-Tracker](https://github.com/ruthmci/backend-Protege-Budget-Tracker)  
-- Frontend Repo: [github.com/ruthmci/frontend-Protege-Budget-Tracker](https://github.com/ruthmci/frontend-Protege-Budget-Tracker)
+- Backend Repo: [github.com/RuthMcilwaine/backend-Protege-Budget-Tracker](https://github.com/RuthMcilwaine/backend-Protege-Budget-Tracker)  
+- Frontend Repo: [github.com/RuthMcilwaine/frontend-Protege-Budget-Tracker](https://github.com/RuthMcilwaine/frontend-Protege-Budget-Tracker)
 
 ## Project Description  
 Our client Mark manages proteges' annual learning budgets via Excel and Slack requests. This app centralises management, allowing Mark to view proteges, add/edit/delete proteges and expenses, and track budget usage — aiming for easier, efficient financial oversight.
